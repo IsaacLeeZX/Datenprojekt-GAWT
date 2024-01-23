@@ -1,2 +1,2 @@
 # Datenprojekt-GAWT
-Jens und Isaac, WiSe23/24
+Jens und Isaac WiSe23/24
