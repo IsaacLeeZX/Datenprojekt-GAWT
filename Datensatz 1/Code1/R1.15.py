@@ -13,7 +13,11 @@ Q1 = sorted_temperatures[len(sorted_temperatures) // 4] #00.25
 Q2 = sorted_temperatures[2 * len(sorted_temperatures) // 4] #00.50
 Q3 = sorted_temperatures[3 * len(sorted_temperatures) // 4] #00.75
 
+<<<<<<< HEAD
+# Berechne Dezile
+=======
 # Dezile
+
 D1 = sorted_temperatures[len(sorted_temperatures) // 10] #00.10
 D2 = sorted_temperatures[2 * len(sorted_temperatures) // 10] #00.20
 D3 = sorted_temperatures[3 * len(sorted_temperatures) // 10] #00.30
@@ -24,6 +28,10 @@ D7 = sorted_temperatures[7 * len(sorted_temperatures) // 10] #00.70
 D8 = sorted_temperatures[8 * len(sorted_temperatures) // 10] #00.80
 D9 = sorted_temperatures[9 * len(sorted_temperatures) // 10] #00.90 
 
+<<<<<<< HEAD
+# Gib die Ergebnisse aus
+=======
+>>>>>>> 9e337e81a4b7d876b1dfa2857d09508e85e96b18
 print(f'Quartile:')
 print(f'Q1: {Q1:.2f}')
 print(f'Q2 (Median): {Q2:.2f}')
