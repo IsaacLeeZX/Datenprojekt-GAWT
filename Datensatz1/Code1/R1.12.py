@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Dein Datensatz
+
 temperatures = [
     20.02, 20.14, 20.08, 19.91, 20.00, 20.24, 20.14, 20.14, 20.14, 
     20.15, 20.03, 20.10, 20.21, 20.24, 20.15, 20.33, 20.40, 20.13, 20.21, 
@@ -9,8 +9,9 @@ temperatures = [
     20.70, 20.74, 21.09
 ]
 
+
 plt.boxplot([temperatures], vert=False)
 
-plt.yticks([1], ['Temperatur (°C)'])
+plt.xlabel('Temperatur (°C)', fontsize=12)
 
 plt.show()
