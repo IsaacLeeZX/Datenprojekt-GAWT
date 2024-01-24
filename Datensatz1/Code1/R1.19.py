@@ -8,7 +8,7 @@ temperatures = [
     20.70, 20.74, 21.09
 ]
 
-class_intervals = [0, 20, 20.2, 20.4, 20.6, 20.8, 21, 21.2]
+class_intervals = [19.8, 20, 20.2, 20.4, 20.6, 20.8, 21, 21.2]
 
 class_assignments = [sum(1 for temp in temperatures if interval[0] <= temp < interval[1]) for interval in zip(class_intervals, class_intervals[1:])]
 
