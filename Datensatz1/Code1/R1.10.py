@@ -36,7 +36,7 @@ print(f'Die Stichprobenvarianz beträgt (Jahr): {sample_variance_result2:.4f}')
 
 #Jahreszahlen
 # Die Stichprobenvarianz beträgt: 0.0265 
-# 2 * Standardabweichung = 0.3256 
+# 2 * Standardabweichung = 0.3256  
 
 #Temp. 
 # Die Stichprobenvarianz beträgt: 0.0265 
