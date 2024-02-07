@@ -1,4 +1,4 @@
-temperatures = [
+Temperaturen = [
     0.00, 20.02, 20.14, 20.08, 19.91, 20.00, 20.24, 20.14, 20.14, 20.14, 
     20.15, 20.03, 20.10, 20.21, 20.24, 20.15, 20.33, 20.40, 20.13, 20.21, 
     20.33, 20.27, 20.43, 20.37, 20.53, 20.48, 20.32, 20.38, 20.51, 20.44, 
@@ -6,16 +6,16 @@ temperatures = [
     20.70, 20.74, 21.09
 ]
 
-sorted_temperatures = sorted(temperatures)
+# Sortiere die Daten
+sorted_Temperaturen = sorted(Temperaturen)
 
-# Quartile
-Q1 = sorted_temperatures[len(sorted_temperatures) // 4]
-Q3 = sorted_temperatures[3 * len(sorted_temperatures) // 4]
+# Berechne Quartile
+Q1 = sorted_Temperaturen[len(sorted_Temperaturen) // 4]
+Q3 = sorted_Temperaturen[3 * len(sorted_Temperaturen) // 4]
 
-# Quartilsabstand
+# Berechne Quartilsabstand
 RQAbstand = Q3 - Q1 
 
+# Gib das Ergebnis aus
 print(f'Der Quartilsabstand R_Q0.5 beträgt: {RQAbstand:.2f}')
-
-# Quartilsabstand: 0.42
  

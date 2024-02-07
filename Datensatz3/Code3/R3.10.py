@@ -21,5 +21,5 @@ mad_result2 = median_absolute_deviation(years)
 print(f'Die mittlere Abweichung vom Median beträgt: {mad_result:.2f}')
 print(f'Die mittlere Abweichung vom Median beträgt (Jahr): {mad_result2:.2f}')
 
-# Die mittlere Abweichung vom Median beträgt (Jahr): 
+# Die mittlere Abweichung vom Median beträgt (Jahr): 10.32
 # Die mittlere Abweichung vom Median beträgt: 0.21 

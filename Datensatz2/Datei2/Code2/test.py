@@ -1,9 +1,10 @@
 temperatures = [
-    20.02, 20.14, 20.08, 19.91, 20.00, 20.24, 20.14, 20.14, 20.14, 
-    20.15, 20.03, 20.10, 20.21, 20.24, 20.15, 20.33, 20.40, 20.13, 20.21, 
-    20.33, 20.27, 20.43, 20.37, 20.53, 20.48, 20.32, 20.38, 20.51, 20.44, 
-    20.37
-]
+20.02, 20.14, 20.08, 19.91, 20.0, 20.24, 20.14, 20.14, 
+20.14, 20.15, 20.03, 20.11, 20.21, 20.24, 20.15, 20.33, 20.41, 
+20.21, 20.33, 20.27, 20.43, 20.37, 20.53, 20.48, 20.32, 
+20.38, 20.44, 20.37 
+
+] 
 
 n = len(temperatures)
 
@@ -17,6 +18,5 @@ sample_variance_result = sum(squared_deviations) / (n - 1)
 
 print(f'Die Stichprobenvarianz beträgt: {sample_variance_result:.4f}')
 
-# 1982-2011 
-# Die Stichprobenvarianz beträgt: 0.0265 
-# 2 * Standardabweichung = 0.3256  
+# Die Stichprobenvarianz beträgt: 0.0253 
+# 2 * Standardabweichung = 0.31812

@@ -12,10 +12,9 @@ sorted_temperatures = sorted(temperatures)
 Q1 = sorted_temperatures[len(sorted_temperatures) // 4]
 Q3 = sorted_temperatures[3 * len(sorted_temperatures) // 4]
 
-# Quartilsabstand
+# Berechne Quartilsabstand
 RQAbstand = Q3 - Q1 
 
+# Gib das Ergebnis aus
 print(f'Der Quartilsabstand R_Q0.5 beträgt: {RQAbstand:.2f}')
-
-# Quartilsabstand: 0.42
  
