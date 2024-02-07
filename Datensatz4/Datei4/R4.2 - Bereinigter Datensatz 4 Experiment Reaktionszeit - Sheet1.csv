@@ -13,11 +13,9 @@ Stichprobe,Reaktionszeit in ms
 12,187
 13,231
 14,279
-15,308
 16,204
 17,187
 18,204
-19,Too soon
 20,215
 21,186
 22,187
@@ -29,23 +27,16 @@ Stichprobe,Reaktionszeit in ms
 28,272
 29,208
 30,219
-31,Too soon
-32,1867
 33,131
 34,186
 35,192
 36,192
-37,Too soon
-38,1116
 39,220
-40,Too soon
 41,190
 42,223
 43,208
-44,Too soon
 45,235
 46,261
-47,Too soon
 48,241
 49,211
 50,229
@@ -53,7 +44,6 @@ Stichprobe,Reaktionszeit in ms
 52,195
 53,198
 54,210
-55,Too soon
 56,194
 57,270
 58,197
@@ -62,7 +52,6 @@ Stichprobe,Reaktionszeit in ms
 61,215
 62,200
 63,214
-64,1322
 65,198
 66,181
 67,189
@@ -105,7 +94,6 @@ Stichprobe,Reaktionszeit in ms
 104,236
 105,201
 106,190
-107,Too soon
 108,198
 109,204
 110,232
