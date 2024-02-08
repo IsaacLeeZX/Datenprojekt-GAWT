@@ -1,0 +1,5 @@
+Quelle:
+Average Sea Surface Temperature of the World (60°N - 60°S) on August 25.
+Downloaded from the Platform "Climate Reanalyzer" of the Climate Change Institute of the University of Maine.
+https://climatereanalyzer.org/clim/sst_daily/
+
