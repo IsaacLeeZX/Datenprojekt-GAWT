@@ -1,1 +1,0 @@
-This repository contains a dataset for use within the lecture "Principles and Applications of Probability Theory" at the University of Kaiserslautern-Landau (RPTU). 
