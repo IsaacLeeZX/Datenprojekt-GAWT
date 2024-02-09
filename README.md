@@ -1,3 +1,4 @@
 # Datenprojekt-GAWT
-Jens und Isaac, WiSe23/24
-Yooo man my name is LaeLow
+Jens und Isaac Datenprojekt Github Link:
+
+https://github.com/IsaacLeeZX/Datenprojekt-GAWT
